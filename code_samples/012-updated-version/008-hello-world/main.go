@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello everyone, this is the most awesome class in the entire world for having fun and learning the GO programming language.")
 
-	foo()
+	peepee()
 
 	fmt.Println("something more")
 
@@ -15,14 +15,14 @@ func main() {
 		}
 	}
 
-	bar()
+	poopoo()
 }
 
-func foo() {
+func peepee() {
 	fmt.Println("I'm in foo.")
 }
 
-func bar() {
+func poopoo() {
 	fmt.Println("and then we exited")
 }
 
